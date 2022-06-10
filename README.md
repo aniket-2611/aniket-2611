@@ -83,7 +83,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aniket-2611"><img alt="Aniket Kulye's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniket-2611&custom_title=Aniket Kulye's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aniket-2611"><img alt="Aniket Kulye's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniket-2611&custom_title=aniket-2611's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
