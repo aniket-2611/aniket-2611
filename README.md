@@ -69,7 +69,7 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aniket Kulye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniket-2611&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -81,7 +81,7 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  ⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/aniket-2611"><img alt="Aniket Kulye's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniket-2611&custom_title=aniket-2611's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
