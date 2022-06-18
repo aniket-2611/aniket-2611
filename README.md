@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=aniket-2611a&label=Profile%20views&color=0e75b6&style=plastic" alt="aniket-2611" /> 
+	<img src="https://komarev.com/ghpvc/?username=aniketkulyea&label=Profile%20views&color=0e75b6&style=plastic" alt="aniketkulye" /> 
 </p>
 
 
@@ -20,7 +20,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2611&theme=algolia" alt="aniket-2611" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkulye&theme=algolia" alt="aniketkulye" /></p>
 
 <br>
 <br>
@@ -29,7 +29,7 @@
 ## 📫Connect with me
 <p align="center">
 	<a href="mailto:ani.kulye.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/aniket-2611"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/aniketkulye"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
 
 
@@ -72,10 +72,10 @@
   💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aniket Kulye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniket-2611&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aniket Kulye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniketkulye&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-2611&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aniket-2611" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkulye&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aniketkulye" height="192px"/>
   <br/>
   </p>
 
@@ -83,7 +83,7 @@
 
   ⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aniket-2611"><img alt="Aniket Kulye's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniket-2611&custom_title=aniket-2611's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aniketkulye"><img alt="Aniket Kulye's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniketkulye&custom_title=aniketkulye's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -91,5 +91,5 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-2611&layout=compact&theme=algolia" alt="aniket-2611" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketkulye&layout=compact&theme=algolia" alt="aniketkulye" /></a> </p>
 
